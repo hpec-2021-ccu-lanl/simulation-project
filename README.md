@@ -1,6 +1,6 @@
 # simulation-project
 
-Repository for the IEEE HPEC 2021 article entitled "Exploring the Tradeoff Between Reliability and Performance in HPC Systems" by C. Walker et al.
+
 
 make sure git is installed as well as docker and that they are working correctly<br>
 then type<br>
